@@ -17,14 +17,4 @@ function purple(){
 function blue(){
     document.body.style.backgroundColor = "#29bbff";
 }
-function green(){
-    document.body.style.backgroundColor = "#29ff89";
-}
-function pink(){
-    document.body.style.backgroundColor = "#d129ff";
-}
-function voilet(){
-    document.body.style.backgroundColor = "#7029ff";
-}
-
 
