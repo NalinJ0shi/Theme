@@ -11,8 +11,11 @@ body{
     background: #2f363e;
 }
 
-
-
+.text{
+    position: absolute;
+    height: 380px;
+    color:#fff;
+}
 .menu{
     position: relative;
     width: 280px;
